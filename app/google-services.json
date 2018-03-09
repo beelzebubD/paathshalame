@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631343201213",
+    "firebase_url": "https://paathshala-eb52d.firebaseio.com",
+    "project_id": "paathshala-eb52d",
+    "storage_bucket": "paathshala-eb52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631343201213:android:946c01f7d175be31",
+        "android_client_info": {
+          "package_name": "com.singh.divyanshu.paathshala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631343201213-07vtpsdl7vtjm1eiigur44607dbjmkca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singh.divyanshu.paathshala",
+            "certificate_hash": "d9832e94a3722dc5f8326115b043eeddbce75f1c"
+          }
+        },
+        {
+          "client_id": "631343201213-bpdkphteqk35mtthq4vfg1k24d0al8pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKV9lDa-pRtWlyx6btgCKljI-HJlAkCD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631343201213-bpdkphteqk35mtthq4vfg1k24d0al8pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

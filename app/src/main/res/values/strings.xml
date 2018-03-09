@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">paathshala</string>
+    <string name="login">login</string>
+    <string name="button">log in</string>
+    <string name="password">password</string>
+    <string name="Register">Register</string>
+    <string name="username">Username</string>
+</resources>
